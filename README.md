@@ -1,4 +1,4 @@
-HEIC image plugin for win 10/11
+HEVC image plugin for win 10/11
 
 Installing
 ----------------

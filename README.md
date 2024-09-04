@@ -1,8 +1,13 @@
-HEIC image pluging for win 10/11
+HEIC image plugin for win 10/11
 
-change .popup with .AppxBundle
+Simply Download and run the installer from Release and run as admin
 
-install it
+
+Manual
+-------------
+>change .popup with .AppxBundle
+>install it
 
 Requirements
 -windows app installer 
+

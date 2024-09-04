@@ -10,6 +10,7 @@ Manual
 >change .popup with .AppxBundle
 >install it
 
-Requirements
--windows app installer 
+Requirements Softwares
+----------------------
+Windows app installer 
 
